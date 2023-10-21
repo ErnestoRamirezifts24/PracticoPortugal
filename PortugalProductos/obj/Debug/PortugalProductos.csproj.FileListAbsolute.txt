@@ -1,0 +1,11 @@
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\bin\Debug\PortugalProductos.exe.config
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\bin\Debug\PortugalProductos.exe
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\bin\Debug\PortugalProductos.pdb
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.Gestion_Productos.resources
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.csproj.GenerateResource.cache
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.exe
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.pdb
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.Form1.resources
+C:\Users\Ernesto\Desktop\Primer_Entrega\PortugalProductos\obj\Debug\PortugalProductos.csproj.AssemblyReference.cache
